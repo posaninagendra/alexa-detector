@@ -1,0 +1,28 @@
+{
+  "name": "malware-jail",
+  "version": "0.10.0",
+  "description": "Nodejs based Sandbox for malware analysis.",
+  "main": "jailme.js",
+  "author": {
+    "name": "Hynek Petrak",
+    "email": "hynek.petrak@gmail.com"
+  },
+  "dependencies": {
+    "entities": "^1.1.1",
+    "iconv-lite": "^0.4.13",
+    "minimist": "^1.2.0",
+    "sync-request": "^3.0.1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HynekPetrak/node-malware-jail.git"
+  },
+  "keywords": [
+    "node",
+    "malware",
+    "jail",
+    "sandbox",
+    "analysis"
+  ]
+}
